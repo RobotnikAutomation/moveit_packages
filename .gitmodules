@@ -1,0 +1,18 @@
+[submodule "moveit"]
+	path = moveit
+	url = git@github.com:RobotnikAutomation/moveit.git
+	branch = develop
+[submodule "moveit_msgs"]
+	path = moveit_msgs
+	url = git@github.com:ros-planning/moveit_msgs.git
+	branch = master
+[submodule "srdfdom"]
+	path = srdfdom
+	url = git@github.com:ros-planning/srdfdom.git
+	branch = noetic-devel
+[submodule "geometric_shapes"]
+	path = geometric_shapes
+	url = git@github.com:ros-planning/geometric_shapes.git
+[submodule "moveit_visual_tools"]
+	path = moveit_visual_tools
+	url = git@github.com:ros-planning/moveit_visual_tools.git
